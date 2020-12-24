@@ -2,7 +2,7 @@
 This repo is about Computing Lab Assignment IV
 
 ## ABOUT 
-## Online CSE-NITK website and management Software
+### Online CSE-NITK website and management Software
 
  * Prepare a report with Feasibility Study, selection of software development life cycle and execution of its phases like planning, requirement gathering and   analysis, design and prototyping, UML,  software development, testing, and deployment.
  * Design  a  personal web  page  by  using  HTML  and  CSS, JSON/ ANGULARJS/ JAVASCRIPT, SQL/ PHP/ASP/ JAVA/ PYTHON/. NET etc.
@@ -10,6 +10,6 @@ This repo is about Computing Lab Assignment IV
  * You can refer and collect data from https://cse.nitk.ac.in/.
  
  
- ## Resources
+ ### Resources
  * https://1stwebdesigner.com/best-web-designer/
  * https://www.w3schools.com/
