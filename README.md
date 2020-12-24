@@ -11,7 +11,5 @@ This repo is about Computing Lab Assignment IV
  
  
  ## Resources
-
-    https://1stwebdesigner.com/best-web-designer/
-
-    https://www.w3schools.com/
+ https://1stwebdesigner.com/best-web-designer/
+ https://www.w3schools.com/
